@@ -10,7 +10,7 @@ www.Orcid.org
 
 www.Academia.edu
 
-www.citeulike.org
+www.Citeulike.org
 
 # Portals
 
@@ -18,4 +18,4 @@ www.Intechopen.com
 
 www.Sci-hub.cc
 
-www.readcube.com
+www.Readcube.com
