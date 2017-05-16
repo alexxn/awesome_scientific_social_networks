@@ -12,6 +12,8 @@ www.Academia.edu
 
 www.Citeulike.org
 
+www.Researcherid.com
+
 # Portals
 
 www.Intechopen.com
