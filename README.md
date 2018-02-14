@@ -32,3 +32,7 @@ https://cyberleninka.ru - russian scholar articles search portal
 www.citeseerx.ist.psu.edu - CiteSeerˣ is a public search engine and digital library for scientific and academic papers, primarily in the fields of computer and information science
 
 www.hal.archives-ouvertes.fr - HAL is an open archive where authors can deposit scholarly documents from all academic fields.
+
+https://clarivate.com/products/web-of-science - Web Of Science is an online subscription-based scientific citation indexing service.
+
+https://www.ncbi.nlm.nih.gov/pubmed - s a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
