@@ -36,3 +36,7 @@ www.hal.archives-ouvertes.fr - HAL is an open archive where authors can deposit 
 https://clarivate.com/products/web-of-science - Web Of Science is an online subscription-based scientific citation indexing service.
 
 https://www.ncbi.nlm.nih.gov/pubmed - s a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
+
+https://search.crossref.org/ - Search the metadata of   journal articles, books, standards, datasets & more
+
+https://clarivate.com/products/web-of-science/ - The Web of Science platform connects the Web of Science Core Collection to regional citation indexes
